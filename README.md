@@ -1,6 +1,5 @@
 # Xware
 Xware1.0.31
-# Xware
 迅雷远程下载插件 	
 
 固件命名结构： Xware版本号\_（cpu架构\_指令集_c库类型｜产品名称）.zip  
